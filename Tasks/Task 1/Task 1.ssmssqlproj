@@ -25,6 +25,60 @@
           <AssociatedConnUserName />
           <FullPath>1.sql</FullPath>
         </FileNode>
+        <FileNode Name="10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MSI\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MSI\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
