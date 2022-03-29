@@ -1,4 +1,4 @@
---Показать поля ProductID, StartDate, EndDate из таблицы Production.ProductCostHistory.
+п»ї--РџРѕРєР°Р·Р°С‚СЊ РїРѕР»СЏ ProductID, StartDate, EndDate РёР· С‚Р°Р±Р»РёС†С‹ Production.ProductCostHistory.
 SELECT ProductID, 
        StartDate,
        EndDate

@@ -1,3 +1,3 @@
---Показать все поля из таблицы 'Production.ProductInventory'.
+п»ї--РџРѕРєР°Р·Р°С‚СЊ РІСЃРµ РїРѕР»СЏ РёР· С‚Р°Р±Р»РёС†С‹'Production.ProductInventory'.
 SELECT *
 FROM Production.ProductInventory;

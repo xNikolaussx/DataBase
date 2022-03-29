@@ -1,5 +1,5 @@
---Показать уникальные названия городов из таблицы Person.Address,
---у которых известна долгота и широта (SpatialLocation).
+п»ї--РџРѕРєР°Р·Р°С‚СЊ СѓРЅРёРєР°Р»СЊРЅС‹Рµ РЅР°Р·РІР°РЅРёСЏ РіРѕСЂРѕРґРѕРІ РёР· С‚Р°Р±Р»РёС†С‹ Person.Address,
+--Сѓ РєРѕС‚РѕСЂС‹С… РёР·РІРµСЃС‚РЅР° РґРѕР»РіРѕС‚Р° Рё С€РёСЂРёРЅР° (SpatialLocation).
 SELECT City
 FROM Person.Address
 WHERE SpatialLocation IS NOT NULL;
